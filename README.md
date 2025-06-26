@@ -17,7 +17,6 @@ This project demonstrates how to automatically deploy a static website to **GitH
 
 ```
 
-https\://<username>.github.io/gh-deployment-workflow/
 
 ```
 
